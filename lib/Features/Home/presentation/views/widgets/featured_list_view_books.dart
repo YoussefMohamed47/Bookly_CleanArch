@@ -10,6 +10,7 @@ class FeaturedListViewOfBooks extends StatelessWidget {
     return ListView.builder(
       itemCount: 5,
       scrollDirection: Axis.horizontal,
+      padding: EdgeInsets.zero,
       shrinkWrap: true,
       itemBuilder: (context, index) {
         return const Padding(
