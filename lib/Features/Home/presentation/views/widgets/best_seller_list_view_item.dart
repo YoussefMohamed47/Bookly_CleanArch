@@ -1,7 +1,5 @@
 import 'package:bookly/Core/utils/styles.dart';
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
 import '../../../../../Core/utils/assets.dart';
 import 'best_seller_item_book_rating.dart';
 
