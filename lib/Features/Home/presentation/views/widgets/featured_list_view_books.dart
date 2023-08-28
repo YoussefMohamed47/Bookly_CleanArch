@@ -9,6 +9,7 @@ class FeaturedListViewOfBooks extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListView.builder(
       itemCount: 5,
+      physics: const BouncingScrollPhysics(),
       scrollDirection: Axis.horizontal,
       padding: EdgeInsets.zero,
       shrinkWrap: true,
