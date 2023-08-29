@@ -1,4 +1,4 @@
-import 'package:bookly/Features/Home/presentation/views/widgets/book_detail_view_body.dart';
+import 'package:bookly/Features/Home/presentation/views/Book%20Details/book_detail_view_body.dart';
 import 'package:flutter/material.dart';
 
 class BookDetailsView extends StatelessWidget {

@@ -1,4 +1,4 @@
-import 'package:bookly/Features/Home/presentation/views/book_details_view.dart';
+import 'package:bookly/Features/Home/presentation/views/Book%20Details/widgets/book_details_view.dart';
 import 'package:bookly/Features/Home/presentation/views/home_view.dart';
 import 'package:bookly/Features/splash/presentation/views/splash_view.dart';
 import 'package:go_router/go_router.dart';
